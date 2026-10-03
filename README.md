@@ -73,3 +73,7 @@ make package      # dist/<mod>.zip
 ## Publishing
 
 Publish from the game (Main menu → Mods → your staging mod → Publish) with a [mod.io](https://mod.io/g/transportfever3) account. The game validates the mod, cooks it and uploads it.
+
+## License
+
+[MIT](LICENSE). Transport Fever 3 is a trademark of Urban Games; this project is not affiliated with Urban Games or Paradox Interactive.
