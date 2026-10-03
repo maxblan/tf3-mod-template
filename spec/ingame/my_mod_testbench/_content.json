@@ -1,0 +1,11 @@
+{
+    "archives": null,
+    "files": [
+        "my_mod_testbench/app_script.lua",
+        "my_mod_testbench/scenarios.lua",
+        "my_mod_testbench/site.lua",
+        "my_mod_testbench/testbench.gs.lua",
+        "my_mod_testbench/testbench.script.lua",
+        "my_mod_testbench/track_builder.lua"
+    ]
+}

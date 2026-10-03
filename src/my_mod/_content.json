@@ -1,0 +1,9 @@
+{
+    "archives": null,
+    "files": [
+        "my_mod/logger.lua",
+        "my_mod/main.gs.lua",
+        "my_mod/main.script.lua",
+        "my_mod/track_stats.lua"
+    ]
+}
